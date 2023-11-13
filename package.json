@@ -9,19 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.2"
+    "@lexical/list": "^0.12.2",
+    "@lexical/react": "^0.12.2",
+    "lexical": "^0.12.2",
+    "next": "14.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typed.js": "^2.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
     "autoprefixer": "^10.0.1",
-    "postcss": "^8",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.0.2",
+    "postcss": "^8.0.0",
     "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.2"
+    "typescript": "^5.0.2"
   }
 }

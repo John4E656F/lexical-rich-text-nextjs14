@@ -1,0 +1,1 @@
+export { EditorTheme } from './LexicalTheme';
